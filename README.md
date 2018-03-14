@@ -1,9 +1,9 @@
-multipages-generator [![NPM version](https://badge.fury.io/js/multipages-generator.png)](http://badge.fury.io/js/eventproxy)
+papa-generator [![NPM version](https://badge.fury.io/js/papa-generator.png)](http://badge.fury.io/js/eventproxy)
 ======
 
-[![NPM](https://nodei.co/npm/multipages-generator.png?downloads=true&stars=true)](https://nodei.co/npm/eventproxy)
+[![NPM](https://nodei.co/npm/papa-generator.png?downloads=true&stars=true)](https://nodei.co/npm/eventproxy)
 
-multipages-generator 🤡是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目，有几个特点：
+papa-generator 🤡是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目，有几个特点：
 
 1. 支持webpack编译多页面，可编译指定项目，也可编译全部项目
 2. 前端编译支持热更新
@@ -19,7 +19,7 @@ multipages-generator 🤡是一个像express-generator一样快速生成网站�
 通过NPM全局安装即可使用：
 
 ```bash
-npm install multipages-generator -g
+npm install papa-generator -g
 ```
 
 ## 创建并运行📽
