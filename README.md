@@ -1,7 +1,7 @@
-pada-generator [![NPM version](https://badge.fury.io/js/pada-generator.png)](http://badge.fury.io/js/eventproxy)
+pada-generator [![NPM version](https://badge.fury.io/js/pada-generator.png)](http://badge.fury.io/js/pada-generator)
 ======
 
-[![NPM](https://nodei.co/npm/pada-generator.png?downloads=true&stars=true)](https://nodei.co/npm/eventproxy)
+[![NPM](https://nodei.co/npm/pada-generator.png?downloads=true&stars=true)](https://nodei.co/npm/pada-generator)
 
 pada-generator 🤡是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目，有几个特点：
 
