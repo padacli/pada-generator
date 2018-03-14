@@ -1,6 +1,6 @@
 {
-  "name": "papa-generator",
-  "version": "1.0.0",
+  "name": "pada-generator",
+  "version": "1.0.2",
   "description": "A generator for high performance multipages website templates,use webpack node.js express .Fit for mobile h5 pages,require high performance.",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/papacli/multipages-generator.git"
+    "url": "git+https://github.com/papacli/pada-generator.git"
   },
   "keywords": [
+    "pada",
     "gernerator",
     "high",
     "performance",
@@ -22,14 +23,14 @@
     "mobile"
   ],
   "bin": {
-    "papa-generate": "./index.js"
+    "pada-generate": "./index.js"
   },
   "author": "papacli",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/papacli/multipages-generator/issues"
+    "url": "https://github.com/papacli/pada-generator/issues"
   },
-  "homepage": "https://github.com/papacli/multipages-generator#readme",
+  "homepage": "https://github.com/papacli/pada-generator#readme",
   "dependencies": {
     "inquirer": "^5.1.0"
   }

@@ -1,9 +1,9 @@
-papa-generator [![NPM version](https://badge.fury.io/js/papa-generator.png)](http://badge.fury.io/js/eventproxy)
+pada-generator [![NPM version](https://badge.fury.io/js/pada-generator.png)](http://badge.fury.io/js/eventproxy)
 ======
 
-[![NPM](https://nodei.co/npm/papa-generator.png?downloads=true&stars=true)](https://nodei.co/npm/eventproxy)
+[![NPM](https://nodei.co/npm/pada-generator.png?downloads=true&stars=true)](https://nodei.co/npm/eventproxy)
 
-papa-generator 🤡是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目，有几个特点：
+pada-generator 🤡是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目，有几个特点：
 
 1. 支持webpack编译多页面，可编译指定项目，也可编译全部项目
 2. 前端编译支持热更新
@@ -19,14 +19,14 @@ papa-generator 🤡是一个像express-generator一样快速生成网站脚手�
 通过NPM全局安装即可使用：
 
 ```bash
-npm install papa-generator -g
+npm install pada-generator -g
 ```
 
 ## 创建并运行📽
 
-步骤一：执行multipages-generate
+步骤一：执行pada-generate
 ```bash
-multipages-generate
+pada-generate
 
 ```
 步骤二：出现输入项目名提示，并输入您的项目名称
@@ -97,6 +97,6 @@ apps 目录下已有facemerge，voicemerge两个项目，新增一个项目xxx�
 The MIT License 请自由享受开源。
 
 ## 部署相关参考
-<http://medium.yintage.com/>
+<http://medium.yintage.com/?p=248/>
 
 
